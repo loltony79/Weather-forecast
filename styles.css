@@ -1,0 +1,9 @@
+/* make border */
+.result {
+    border: 1px solid black;
+    text-align: center;
+}
+
+body {
+    text-align: left;
+}
